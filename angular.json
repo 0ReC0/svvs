@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "cli": {
+    "packageManager": "yarn"
+  },
+  "projects": {
+    "frontend-client": "apps/frontend/client",
+    "frontend-client-e2e": "apps/frontend-client-e2e"
+  }
+}
