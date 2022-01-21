@@ -43,6 +43,7 @@
     "@nrwl/eslint-plugin-nx": "13.4.6",
     "@nrwl/jest": "13.4.6",
     "@nrwl/linter": "13.4.6",
+    "@nrwl/nest": "^13.4.6",
     "@nrwl/tao": "13.4.6",
     "@nrwl/workspace": "13.4.6",
     "@types/jest": "27.0.2",
